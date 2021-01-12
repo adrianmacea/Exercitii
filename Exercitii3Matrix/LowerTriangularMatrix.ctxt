@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LowerTriangularMatrix
+comment0.text=\n\ Lower\ triangular\ matrix\ is\ a\ square\ matrix\ in\ which\ \n\ all\ the\ elements\ above\ the\ principle\ diagonal\ will\ be\ zero.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

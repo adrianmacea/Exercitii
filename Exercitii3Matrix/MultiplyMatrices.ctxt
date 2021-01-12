@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MultiplyMatrices
+comment0.text=\n\ The\ product\ of\ two\ matrices\ can\ be\ computed\ by\ multiplying\ \n\ elements\ of\ the\ first\ row\ of\ the\ first\ matrix\ with\ \n\ the\ first\ column\ of\ the\ second\ matrix\ then,\ \n\ add\ all\ the\ product\ of\ elements.\ \n\ \n\ Continue\ this\ process\ until\ each\ row\ of\ the\ first\ matrix\ \n\ is\ multiplied\ with\ each\ column\ of\ the\ second\ matrix.\n\ \n\ 1*2+3*1+2*1\ \ 1*1+3*0+2*3\ 1*1+3*1+2*1\n\ 3*2+1*1+1*1\ \ 1*1+3*0+3*2\ 3*1+1*1+1*1\n\ 2*2+2*1+2*1\ \ 1*1+2*0+2*3\ 1*1+2*1+2*1\n\ \n\ Two\ matrices\ can\ be\ multiplied\ if\ and\ only\ if\ \n\ they\ satisfy\ the\ following\ condition\:\n\ The\ number\ of\ columns\ present\ in\ the\ first\ matrix\ \n\ should\ be\ equal\ to\ the\ number\ of\ rows\ present\ in\ the\ second\ matrix.\n\ Suppose\ dimension\ of\ matrix\ A\ is\ i\ \u00D7\ j\ and\ matrix\ B\ is\ j\ \u00D7\ k,\ \n\ then\ the\ dimension\ of\ resulting\ matrix\ will\ be\ i\ \u00D7\ k.\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

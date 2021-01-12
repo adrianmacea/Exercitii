@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SumRowsColumns
+comment0.text=\n\ calculate\ the\ sum\ of\ elements\ in\ each\ row\ and\ each\ column\ of\ the\ given\ matrix\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

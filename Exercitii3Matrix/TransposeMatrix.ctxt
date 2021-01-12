@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TransposeMatrix
+comment0.text=\n\ Find\ the\ transpose\ of\ the\ given\ matrix\ and\ print\ the\ resulting\ matrix.\n\ \n\ Transpose\ of\ a\ matrix\ can\ be\ found\ by\ interchanging\ rows\ with\ the\ column.\n\ That\ is,\ rows\ of\ the\ original\ matrix\ will\ become\ columns\ of\ the\ new\ matrix.\ \n\ Similarly,\ columns\ in\ the\ original\ matrix\ will\ become\ rows\ in\ the\ new\ matrix.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

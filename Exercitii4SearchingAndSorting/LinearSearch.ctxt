@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LinearSearch
+comment0.text=\n\ Linear\ search\ is\ used\ to\ search\ a\ key\ element\ from\ multiple\ elements.\ \n\ Linear\ search\ is\ less\ used\ today\ because\ it\ is\ slower\ \n\ than\ binary\ search\ and\ hashing.\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ key
+comment2.target=void\ linearSearch(int[],\ int)
+numComments=3

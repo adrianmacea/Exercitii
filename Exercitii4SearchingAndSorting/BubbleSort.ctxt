@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BubbleSort
+comment0.text=\n\ Bubble\ sort\ algorithm\ is\ known\ as\ the\ simplest\ sorting\ algorithm.\ \n\ In\ bubble\ sort\ algorithm,\ array\ is\ traversed\ from\ first\ element\ to\ last\ element.\ \n\ Here,\ current\ element\ is\ compared\ with\ the\ next\ element.\ \n\ If\ current\ element\ is\ greater\ than\ the\ next\ element,\ it\ is\ swapped.\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ bubbleSort(int[])
+numComments=3

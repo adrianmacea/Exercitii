@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment0.text=\n\ Insertion\ sort\ is\ a\ simple\ sorting\ algorithm\ that\ works\ similar\ \n\ to\ the\ way\ you\ sort\ playing\ cards\ in\ your\ hands.\ \n\ The\ array\ is\ virtually\ split\ into\ a\ sorted\ and\ an\ unsorted\ part.\ \n\ Values\ from\ the\ unsorted\ part\ are\ picked\ and\ placed\ at\ the\ correct\ position\ in\ the\ sorted\ part.\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ insertionSort(int[])
+numComments=3

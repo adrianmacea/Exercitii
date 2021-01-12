@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FactorialRecursion
+comment0.text=\n\ Factorial\ of\ n\ is\ the\ product\ of\ all\ positive\ descending\ integers.\ \n\ Factorial\ of\ n\ is\ denoted\ by\ n\!.\n\ For\ example\:\n\ 4\!\ \=\ 4*3*2*1\ \=\ 24\ \n\ 5\!\ \=\ 5*4*3*2*1\ \=\ 120\ \n\ \n\ Here,\ 4\!\ is\ pronounced\ as\ "4\ factorial",\ it\ is\ also\ called\ "4\ bang"\ or\ "4\ shriek".\n\ The\ factorial\ is\ normally\ used\ in\ Combinations\ and\ Permutations\ (mathematics).\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ p
+comment2.target=void\ factorialIncr(int,\ int)
+comment3.params=n
+comment3.target=int\ factorialAlt(int)
+numComments=4

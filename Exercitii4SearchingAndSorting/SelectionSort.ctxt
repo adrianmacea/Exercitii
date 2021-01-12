@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SelectionSort
+comment0.text=\n\ Selection\ sort\ selects\ i-th\ smallest\ element\ and\ places\ at\ i-th\ position.\ \n\ This\ algorithm\ divides\ the\ array\ into\ two\ parts\:\ sorted\ (left)\ and\ unsorted\ (right)\ subarray.\ \n\ It\ selects\ the\ smallest\ element\ from\ unsorted\ subarray\ and\ places\ \n\ in\ the\ first\ position\ of\ that\ subarray\ (ascending\ order).\ \n\ It\ repeatedly\ selects\ the\ next\ smallest\ element..\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ selectionSort(int[])
+numComments=3

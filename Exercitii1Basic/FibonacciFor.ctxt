@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FibonacciFor
+comment0.text=\n\ In\ fibonacci\ series,\ next\ number\ is\ the\ sum\ of\ previous\ two\ numbers\ \n\ for\ example\ 0,\ 1,\ 1,\ 2,\ 3,\ 5,\ 8,\ 13,\ 21,\ 34,\ 55\ etc.\ \n\ The\ first\ two\ numbers\ of\ fibonacci\ series\ are\ 0\ and\ 1.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringEquals
+comment0.text=\n\ metoda\ equals()\ din\ clasa\ object\ compara\ referinta\ celor\ doua\ obiecte,\ este\ echivalenta\ cu\ "\=\="\n\ x.equals(y)\ returns\ true\ if\ x\ and\ y\ refer\ to\ the\ same\ object\ (x\ \=\=\ y\ has\ the\ value\ true)\n\ \n\ dar\ metoda\ este\ suprascrisa\ in\ clasa\ String,\ astfel\ incat\ nu\ mai\ compara\ referinta\ ci\ valoarea\ stringurilor,\n\ adica,\ same\ sequence\ of\ characters\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

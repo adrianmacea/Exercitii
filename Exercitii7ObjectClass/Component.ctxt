@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Component
+comment1.params=handler
+comment1.target=void\ setExceptionHandler(ExceptionHandler)
+comment2.params=fileName
+comment2.target=void\ processFile(java.lang.String)
+comment3.params=input
+comment3.target=void\ processStream(java.io.InputStream)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

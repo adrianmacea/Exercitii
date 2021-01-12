@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IncrementalSumRecursion
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=i\ s
+comment2.target=void\ sumaIncr(int,\ int)
+comment3.params=i\ s
+comment3.target=void\ sumaDecr(int,\ int)
+comment4.params=i
+comment4.target=int\ sumaAlt(int)
+numComments=5

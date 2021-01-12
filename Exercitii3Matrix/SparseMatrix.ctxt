@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SparseMatrix
+comment0.text=\n\ Check\ whether\ the\ given\ matrix\ is\ a\ sparse\ matrix.\n\ A\ matrix\ is\ said\ to\ be\ a\ sparse\ matrix\ if\ most\ of\ the\ elements\ of\ that\ matrix\ are\ 0.\ \n\ count\ of\ zero\ elements\ present\ in\ an\ array\ must\ be\ greater\ than\ size/2.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=boolean\ isSparseMatrix(int[][])
+numComments=3

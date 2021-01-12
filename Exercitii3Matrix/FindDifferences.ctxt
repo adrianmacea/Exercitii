@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FindDifferences
+comment0.text=\n\ Two\ matrices\ are\ said\ to\ be\ equal\ if\ and\ only\ if\ \n\ they\ satisfy\ the\ following\ conditions\:\n\ \n\ -\ have\ the\ same\ number\ of\ rows\ and\ columns\n\ -\ have\ the\ same\ corresponding\ elements\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=boolean\ areEqual(int[][],\ int[][])
+comment3.params=a\ b
+comment3.target=void\ findDifferences(int[][],\ int[][])
+numComments=4
